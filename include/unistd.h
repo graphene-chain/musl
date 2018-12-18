@@ -1,7 +1,7 @@
 #pragma once
 /**
  *  @file
- *  @copyright defined in rui/LICENSE.txt
+ *  @copyright defined in token/LICENSE.txt
  */
 
 #include <stdint.h>
